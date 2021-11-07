@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+
+
+body {
+    background-color: #242582;
+    font-family: 'Roboto Mono', monospace;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    }
+
+#short {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 36%;
+}
+
+#short1 {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 39%;
+}
+
+#short2 {
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 34%;
+}
+
