@@ -1,7 +1,7 @@
 # BitClub.
 ## Eind Opdracht jaar 1
 
-BitClub, is een introductie website voor leerlingen. Die eventueel zitten te kijken om naar de Bit Academy te komen.
+BitClub, is een introductie website voor leerlingen, die eventueel zitten te kijken om naar de Bit Academy te komen.
 
 
 ## Wat kan je allemaal met BitCLub?
