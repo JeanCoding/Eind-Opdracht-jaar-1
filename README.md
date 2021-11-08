@@ -15,7 +15,7 @@ BitClub, is een introductie website voor leerlingen. Die eventueel zitten te kij
 
 ## Tech
 
-Gebruikte Progammeertalen
+Gebruikte Programmeertalen
 - HTML - Voor de Front-End.
 - CSS - Voor het Front-End Design.
 - PHP - Voor alle Back-End delen van de website.
